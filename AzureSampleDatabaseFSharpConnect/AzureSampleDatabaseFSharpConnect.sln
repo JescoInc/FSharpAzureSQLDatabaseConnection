@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AzureSampleDatabaseFSharpConnect", "AzureSampleDatabaseFSharpConnect\AzureSampleDatabaseFSharpConnect.fsproj", "{42802EE9-7E53-4498-8227-5829A27C003B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42802EE9-7E53-4498-8227-5829A27C003B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{42802EE9-7E53-4498-8227-5829A27C003B}.Debug|x86.Build.0 = Debug|Any CPU
+		{42802EE9-7E53-4498-8227-5829A27C003B}.Release|x86.ActiveCfg = Release|Any CPU
+		{42802EE9-7E53-4498-8227-5829A27C003B}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
